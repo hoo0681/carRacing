@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BaseObject" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAgAAAgQAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>BaseObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseCar" Collapsed="true">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIAAAAAAAAAAACiAAAIAAEAAQCAAAAAAQAAAgEBACIA=</HashCode>
+      <FileName>BaseCar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Malgun Gothic" Size="9" />
+</ClassDiagram>
